@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 [![DEV: miicha](https://img.shields.io/badge/-miicha-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/miicha)](https://dev.to/miicha)
 [![Linkedin: miikka-saxlund](https://img.shields.io/badge/-miikka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miikka-saxlund/)](https://www.linkedin.com/in/thaianebraga/)
-[![Twitter: miikkakristian](https://img.shields.io/badge/-miikkakristian-1DA1F2?style=flat-square&logo=dev.to&logoColor=white&link=https://twitter.com/miikkakristian)](https://twitter.com/miikkakristian)
-
-![GitHub followers](https://img.shields.io/github/followers/miikkasaxlund?label=Follow&style=social)
+[![Twitter: miikkakristian](https://img.shields.io/badge/-miikkakristian-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/miikkakristian)](https://twitter.com/miikkakristian)
