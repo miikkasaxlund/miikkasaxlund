@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Miikka 👋
 
 <!--
 **miikkasaxlund/miikkasaxlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Software Engineering student at [LAB University of Applied Sciences](https://lab.fi/en)
+
+[![Linkedin: miikka-saxlund](https://img.shields.io/badge/-miikka-saxlund-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miikka-saxlund/)](https://www.linkedin.com/in/thaianebraga/)
+![Twitter Follow](https://img.shields.io/twitter/follow/miikkakristian?style=social)
+![GitHub followers](https://img.shields.io/github/followers/miikkasaxlund?label=Follow&style=social)
