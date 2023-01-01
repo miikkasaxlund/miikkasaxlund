@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Software Engineering student at [LAB University of Applied Sciences](https://lab.fi/en) | Developer at [CGI](https://www.cgi.com)
+Developer at [CGI](https://www.cgi.com)
 
 [![Linkedin: miikka-saxlund](https://img.shields.io/badge/-miikka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miikka-saxlund/)](https://www.linkedin.com/in/miikka-saxlund/)
 
